@@ -2,23 +2,25 @@
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in building impactful and scalable applications. I enjoy solving complex problems and constantly learning new technologies to stay up-to-date with the industry trends.
+I'm a passionate software developer with a keen interest in building impactful and scalable applications. I enjoy solving complex problems and constantly learning new technologies to stay up-to-date with industry trends.
 
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 💼 I’m looking to collaborate on open source projects and contribute to the community.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [aaradhyabodade096@gmail.com]
+- 📫 How to reach me: [aaradhyabodade096@gmail.com](mailto:aaradhyabodade096@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new places in my free time.
 
 ## Skills
 
 ### Programming Languages
-![Python]
-![JavaScript]
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 ### Frameworks and Libraries
-![React]
-![Node.js]
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 
 ### DevOps Tools
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
@@ -36,8 +38,6 @@ I'm a passionate software developer with a keen interest in building impactful a
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
 
 
 ## GitHub Stats
