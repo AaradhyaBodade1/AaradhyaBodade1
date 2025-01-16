@@ -1,6 +1,4 @@
-Sure! Here is your updated profile README:
 
-```markdown
 # Hello, I'm Aaradhya Bodade! 👋
 
 ## About Me
@@ -58,6 +56,4 @@ I'm a passionate software developer with a keen interest in building impactful a
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just say hi! 😊
-```
 
-Feel free to further customize this template according to your preferences!
